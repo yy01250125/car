@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89871ece83329ed448900444b085cad9
+timeCreated: 1444577353
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Start Structure.prefab
+  uploadId: 779743

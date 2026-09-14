@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6915defa8c64aed8ac0da13068a8d77
+timeCreated: 1427453518
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/The City.prefab
+  uploadId: 779743

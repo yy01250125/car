@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fba9017539f784944a12e4d8cfc1483f
+timeCreated: 1444577640
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Sector Structure.prefab
+  uploadId: 779743
