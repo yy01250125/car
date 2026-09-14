@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d35e37f884d2dad449d84fe4fa9f13a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Monitor Bar.prefab
+  uploadId: 779743

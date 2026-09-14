@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e16a38f021dad6241a9d0b65b66702c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Escape Dialog.prefab
+  uploadId: 779743

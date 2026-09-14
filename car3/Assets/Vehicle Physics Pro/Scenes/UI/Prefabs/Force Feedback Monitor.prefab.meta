@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 059e6afa35084d648adb5b6048c187c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Force Feedback Monitor.prefab
+  uploadId: 779743

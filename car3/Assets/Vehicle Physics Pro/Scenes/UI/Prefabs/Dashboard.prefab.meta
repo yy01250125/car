@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b3d0e645474bf94cb89c9e2a9e9dc46
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Dashboard.prefab
+  uploadId: 779743

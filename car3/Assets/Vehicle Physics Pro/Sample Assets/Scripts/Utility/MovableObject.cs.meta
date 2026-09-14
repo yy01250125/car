@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ca46460ff8ccdd4b88bc6afa5eae6b6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Scripts/Utility/MovableObject.cs
+  uploadId: 779743

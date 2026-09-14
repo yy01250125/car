@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee27780c9f127ef44abe190f29084c5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Ignition Key.prefab
+  uploadId: 779743

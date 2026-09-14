@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bab401d9c9316e47a8181018e64851f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Quick Start.prefab
+  uploadId: 779743

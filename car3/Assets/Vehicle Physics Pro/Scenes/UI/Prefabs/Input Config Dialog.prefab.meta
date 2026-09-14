@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80094e8b56f2aa842b66bc646e9108e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Input Config Dialog.prefab
+  uploadId: 779743

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4175c290d4419d641bf2fab1bd822ab0
+timeCreated: 1522324171
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Scripts/Utility/PauseVehicle.cs
+  uploadId: 779743

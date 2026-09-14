@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0eb1aec13cc00894f9aad47cce626856
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Input Monitor.prefab
+  uploadId: 779743

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36c67029b6f62674795a362c1cd6e554
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Input Vertical Bar.prefab
+  uploadId: 779743

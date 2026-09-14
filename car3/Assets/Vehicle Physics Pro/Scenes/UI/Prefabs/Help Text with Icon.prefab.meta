@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5682ca1fe94a03449dc3d9ac69945f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Help Text with Icon.prefab
+  uploadId: 779743
