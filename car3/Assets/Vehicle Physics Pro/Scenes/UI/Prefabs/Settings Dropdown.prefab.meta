@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a21fb13710b42744a410092bbaaa84c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Settings Dropdown.prefab
+  uploadId: 779743

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cfb723188b4754766b1a0a949b59ba90
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Materials/Ad
+    Board.mat
+  uploadId: 779743

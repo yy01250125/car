@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 39e6b4a11e225d5409cb79cbf93525a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Scripts/EscapeDialog.cs
+  uploadId: 779743

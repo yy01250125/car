@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08bcacdc13ed1d648bde90a28ef6ebc5
+timeCreated: 1446674920
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Camera Controller.prefab
+  uploadId: 779743

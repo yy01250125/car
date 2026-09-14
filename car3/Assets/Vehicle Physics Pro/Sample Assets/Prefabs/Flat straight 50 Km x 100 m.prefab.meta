@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9917b28f937e37b40b67a9290c73ab4a
+timeCreated: 1446546597
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Flat straight 50 Km
+    x 100 m.prefab
+  uploadId: 779743

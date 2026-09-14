@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a7d4f5fccf83fbb43a08358fdffd4a4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Scripts/Dashboard.cs
+  uploadId: 779743

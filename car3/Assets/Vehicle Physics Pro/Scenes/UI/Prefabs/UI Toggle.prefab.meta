@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db584f31a16d2e64f9f8ac22b734b8b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/UI Toggle.prefab
+  uploadId: 779743

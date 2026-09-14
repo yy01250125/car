@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc4fea0063fa40244802d2c95e6c6738
+timeCreated: 1497515599
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Locations/Readme - Locations.txt
+  uploadId: 779743

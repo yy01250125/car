@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d594d3cfa7de74d51917d0e743605677
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Materials/Downtown
+    01 Atlas 3.mat
+  uploadId: 779743

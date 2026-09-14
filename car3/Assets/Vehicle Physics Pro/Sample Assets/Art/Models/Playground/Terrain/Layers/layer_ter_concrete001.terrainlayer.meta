@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 736fd765a1859ba42b7e5614d6a46b44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Playground/Terrain/Layers/layer_ter_concrete001.terrainlayer
+  uploadId: 779743

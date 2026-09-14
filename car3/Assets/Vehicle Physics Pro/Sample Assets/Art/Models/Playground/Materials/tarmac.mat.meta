@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2292c392c8e8174ba7af61914509ccc
+timeCreated: 1426547058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Playground/Materials/tarmac.mat
+  uploadId: 779743

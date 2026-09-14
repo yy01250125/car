@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 167a67615a9b06d4fa16fd69b4e09680
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Telemetry Button.prefab
+  uploadId: 779743

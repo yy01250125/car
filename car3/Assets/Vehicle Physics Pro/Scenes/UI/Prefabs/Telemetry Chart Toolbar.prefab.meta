@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58e8f5e97e5eff44daad68b40407bb1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Telemetry Chart Toolbar.prefab
+  uploadId: 779743

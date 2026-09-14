@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b057229f770b7444ea22275c3eec4cc8
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Materials/Basic
+    Road Dotted.mat
+  uploadId: 779743

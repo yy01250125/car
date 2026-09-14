@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ba239054da355345bc3be88be60af08
+timeCreated: 1503599430
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Car Audio.prefab
+  uploadId: 779743

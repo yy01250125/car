@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29b98001316a71a4baf22f4df1097dd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Gauge/Gauge Mark Slim.prefab
+  uploadId: 779743

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9236cb6410964ece9e5994b4fce23e04
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Offroad
+    Track Terrain/OffroadTrack.asset
+  uploadId: 779743

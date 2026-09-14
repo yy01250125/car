@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4305fb81038283e46b33ef2aae90234f
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Materials/Traffic
+    Signs.mat
+  uploadId: 779743

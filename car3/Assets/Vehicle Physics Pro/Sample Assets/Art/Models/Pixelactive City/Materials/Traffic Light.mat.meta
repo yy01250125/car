@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f864b5f5e6f2d4998b6dd23adb94f81d
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Materials/Traffic
+    Light.mat
+  uploadId: 779743

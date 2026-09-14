@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dd9c4ce3451e46989f3f84cd23ff16b0
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Physic Materials/Patch Friction/Offroad
+    - P.physicMaterial
+  uploadId: 779743

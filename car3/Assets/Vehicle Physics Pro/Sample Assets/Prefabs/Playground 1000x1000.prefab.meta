@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab6d091c7e79cb54da30ca320d86cd44
+timeCreated: 1426535387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground 1000x1000.prefab
+  uploadId: 779743

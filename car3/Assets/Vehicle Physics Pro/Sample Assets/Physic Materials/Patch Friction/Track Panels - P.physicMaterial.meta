@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9cdf4362676d8c942baf533593e810cb
+timeCreated: 1445190235
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Physic Materials/Patch Friction/Track
+    Panels - P.physicMaterial
+  uploadId: 779743

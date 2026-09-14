@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8bcb5919d3fd03849835eb3ee60028c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Gauge/Gauge 2-digit Label.prefab
+  uploadId: 779743

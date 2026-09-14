@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f05397eafb7b7614eaa248904ad9f70f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Settings Scrolling Panel.prefab
+  uploadId: 779743

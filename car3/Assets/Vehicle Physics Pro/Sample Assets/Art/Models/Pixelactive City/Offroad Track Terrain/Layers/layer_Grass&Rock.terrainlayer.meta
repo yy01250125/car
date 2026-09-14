@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb5089881f8ed714a89a5aaafc940373
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Offroad
+    Track Terrain/Layers/layer_Grass&Rock.terrainlayer
+  uploadId: 779743

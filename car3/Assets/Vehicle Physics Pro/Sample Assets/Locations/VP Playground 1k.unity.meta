@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d93ce915b571d774bb9e64640f1efc52
+timeCreated: 1446752085
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Locations/VP Playground 1k.unity
+  uploadId: 779743

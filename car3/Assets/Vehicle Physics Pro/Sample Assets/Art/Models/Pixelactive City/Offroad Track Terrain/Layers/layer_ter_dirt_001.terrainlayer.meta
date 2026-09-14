@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42968779fda95364eb920b7ff351636f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Pixelactive City/Offroad
+    Track Terrain/Layers/layer_ter_dirt_001.terrainlayer
+  uploadId: 779743

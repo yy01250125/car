@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40d008f2798d60e4e939f16e2c726752
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Playground Lite/Terrain
+    Layers/Terrain Dark Grid.terrainlayer
+  uploadId: 779743

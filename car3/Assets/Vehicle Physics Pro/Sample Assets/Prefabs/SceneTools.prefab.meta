@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cd00faae1c08854f97acb5a87bb5f0d
+timeCreated: 1446829645
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/SceneTools.prefab
+  uploadId: 779743

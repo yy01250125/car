@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f94e393574f63ce4ba6eeb0af4e0922c
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Physic Materials/Patch Friction/Ice
+    - P.physicMaterial
+  uploadId: 779743

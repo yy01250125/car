@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1653b15cea3838940b5b4bab8abfd82a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sdk/Version Compatibility/UnityDisplay.cs
+  uploadId: 779743

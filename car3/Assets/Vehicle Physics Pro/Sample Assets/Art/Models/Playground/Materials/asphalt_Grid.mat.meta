@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3891c86d1373d84d87f14e6f6f66f15
+timeCreated: 1426532503
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Playground/Materials/asphalt_Grid.mat
+  uploadId: 779743

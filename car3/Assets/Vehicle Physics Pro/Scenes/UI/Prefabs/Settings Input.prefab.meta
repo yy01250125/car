@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 479238616e0193e408a27984666dda86
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Settings Input.prefab
+  uploadId: 779743

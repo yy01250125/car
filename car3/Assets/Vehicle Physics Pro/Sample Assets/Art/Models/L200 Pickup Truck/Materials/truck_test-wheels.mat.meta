@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a993095f4e1e3c340a1ef25a85a84c7a
+timeCreated: 1447420665
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/L200 Pickup Truck/Materials/truck_test-wheels.mat
+  uploadId: 779743

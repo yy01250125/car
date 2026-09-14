@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afb5be9f12c50fc449928ea6b3595a93
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sdk/Fonts/COPYRIGHT.txt
+  uploadId: 779743

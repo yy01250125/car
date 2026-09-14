@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbbabe86753f34145949265823e1f03b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Scenes/UI/Prefabs/Gauge/Gauge Red Mark Normal.prefab
+  uploadId: 779743

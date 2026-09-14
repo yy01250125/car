@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86b04e5a900455e42b8bfd5a164216fe
+timeCreated: 1448467484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Physic Materials/Patch Friction/Asphalt
+    - P.physicMaterial
+  uploadId: 779743

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e02d922436a96e74aaa83e276a2540de
+timeCreated: 1426432876
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153556
+  packageName: Vehicle Physics Pro - Community Edition
+  packageVersion: 1.7
+  assetPath: Assets/Vehicle Physics Pro/Sample Assets/Art/Models/Playground/Materials/BaseTex_Dark.mat
+  uploadId: 779743
